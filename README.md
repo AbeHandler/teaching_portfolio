@@ -9,4 +9,5 @@ Other notes:
 - I see teaching materials as works in progress. I am always improving and updating them. If you spot a bug, find something confusing or have an idea for an improvement, please send me an email!
 
 The repo is organized into folders:
-- `quantitative_reasoning` includes materials from a lower-division quantitative reasoning class 
+- `quantitative_reasoning` includes materials from a lower-division undergraduate quantitative reasoning class 
+- `data_science` includes materials from upper-division undergraduate data science classes (INFO 3401 and 3402)
